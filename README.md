@@ -1,4 +1,4 @@
-# My Symbol-Node
+## My Symbol-Node
 - `13.230.96.240`
 - I'm waiting for your delegation to my node as it will encourage the technical verification and development of Symbol and the maintenance of the node.
 
