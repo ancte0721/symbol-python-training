@@ -10,10 +10,15 @@ Try to check the operation of API and SDK.
 - 任意のウォレット基本情報取得しモザイクを確認
 - Get any wallet basic information and check the mosaic.
 
-## getTxHistory
+## 02_getTxHistory
 - 任意のウォレットアドレスが対象（送信/受信）のトランザクションを確認
 - Check the target (send / receive) transaction for any wallet address
 
-## getTxHistory
+## 03_getTxHistory
 - 任意のウォレットアドレスが対象のハーベスト情報取得
 - Get harvest information for any wallet address
+
+## 04_mosaicTransfer
+- 秘密鍵を有しているウォレットから任意のアドレスへの送金
+- Sending mosaic from a wallet with a private key to any address
+
