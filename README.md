@@ -12,13 +12,16 @@ Try to check the operation of API and SDK.
 
 ## 02_getTxHistory
 - 任意のウォレットアドレスが対象（送信/受信）のトランザクションを確認
-- Check the target (send / receive) transaction for any wallet address
+- Check the target (send / receive) transaction for any wallet address.
 
 ## 03_getTxHistory
 - 任意のウォレットアドレスが対象のハーベスト情報取得
-- Get harvest information for any wallet address
+- Get harvest information for any wallet address.
 
 ## 04_mosaicTransfer
 - 秘密鍵を有しているウォレットから任意のアドレスへの送金
-- Sending mosaic from a wallet with a private key to any address
+- Sending mosaic from a wallet with a private key to any address.
 
+## 05_aggregateTransaction1
+- 複数のトランザクションを同時に送信
+- Send multiple transactions at the same time.
